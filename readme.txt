@@ -1,1 +1,0 @@
-Файл настроек в "\lib\core\config.php".
